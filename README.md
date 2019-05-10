@@ -20,7 +20,7 @@ $con = mysqli_connect('localhost' , 'username for database',' password for datab
 
 3- this project doesnot have register system so you must add tables called "admins":
 
-![](public/assets/images/mys1.png)
+![](firstpage/images/uploads/mys1.png)
 
 
 
