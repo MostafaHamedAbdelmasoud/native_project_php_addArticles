@@ -23,7 +23,7 @@ $con = mysqli_connect('localhost' , 'username for database',' password for datab
 ![](firstpage/images/uploads/mys1.png)
 
  
- like these elements and your login info.
+ like these elements and add your login info manually.
  
  /***********/
  
